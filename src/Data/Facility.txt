@@ -1,0 +1,14 @@
+Id,   FacName           , FacType  , Location          , Capacity
+BC-01, Badminton Court 1, Badminton, Zone A - 2nd Floor, 4
+MFF-01, Mini Football Field, Football, Zone B - Outdoor Area, 10
+ASP-01, Adult Swimming Pool, Swimming Pool, Zone C - Ground Floor, 30
+BC-02, Badminton Court 2, Badminton, Zone A - 2nd Floor, 4
+KSP-01, Kids Swimming Pool, Swimming Pool, Zone C - Ground Floor, 20
+TC-01, Tennis Court 1, Tennis, Zone D - 1st Floor, 2
+TC-02, Tennis Court 2, Tennis, Zone D - 1st Floor, 2
+TTA-01, Table Tennis Area 1, Table Tennis, Zone E - Ground Floor, 2
+BC-03, Badminton Court 3, Badminton, Zone A - 2nd Floor, 4
+TC-03, Tennis Court 3, Tennis, Zone D - 1st Floor, 2
+TTA-02, Table Tennis Area 2, Table Tennis, Zone E - Ground Floor, 2
+BC-04, Badminton Court 4, Badminton, Zone A - 2nd Floor, 4
+TC-04, Tennis Court 4, Tennis, Zone D - 1st Floor, 2
